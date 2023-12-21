@@ -1,2 +1,3 @@
 print("amit")
-print("niti")
+print("nitin")
+print("jai")
